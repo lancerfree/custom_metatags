@@ -1,0 +1,4 @@
+custom_metatags.metatags.front_page:
+  route_name: custom_metatags.metatags.front_page
+  title: Front Page Metatags
+  base_route: custom_metatags.metatags.front_page

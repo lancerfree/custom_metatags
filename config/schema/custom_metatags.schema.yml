@@ -1,0 +1,14 @@
+custom_metatags.metatags.*:
+  type: config_object
+  label: 'Metatgs Settings'
+  mapping:
+    meta_title:
+      label: 'Meta Title'
+      type: label
+    meta_description:
+      label: 'Meta Description'
+      type: text
+      translatable: true
+    meta_keywords:
+      label: 'Meta Keywords'
+      type: label

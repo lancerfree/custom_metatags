@@ -1,0 +1,8 @@
+custom_metatags.metatags.front_page:
+  path: '/admin/config/custom_metatags/metatags/front_page'
+  defaults:
+    _form: '\Drupal\custom_metatags\Form\MetatagsPageForm'
+    config_name: 'custom_metatags.metatags.front_page'
+  requirements:
+    _permission: 'administer account settings'
+
